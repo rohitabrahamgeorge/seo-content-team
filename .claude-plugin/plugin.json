@@ -1,0 +1,13 @@
+{
+  "name": "seo-content-team",
+  "version": "1.0.0",
+  "description": "Eleven Claude skills that plan, write, design, QA, interlink and track complete competitor comparison content clusters, plus a Semrush-powered SEO coach.",
+  "author": {
+    "name": "Rohit Abraham George",
+    "url": "https://github.com/rohitabrahamgeorge"
+  },
+  "homepage": "https://github.com/rohitabrahamgeorge/seo-content-team",
+  "repository": "https://github.com/rohitabrahamgeorge/seo-content-team",
+  "license": "MIT",
+  "keywords": ["seo", "content-cluster", "comparison-pages", "hub-and-spoke", "b2b", "saas", "semrush", "skills"]
+}

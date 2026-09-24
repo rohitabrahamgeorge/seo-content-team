@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="730" viewBox="0 0 1000 730" role="img" aria-label="11 SEO Content Team Skills">
+  <title>11 SEO Content Team Skills</title>
+  <defs>
+    <linearGradient id="front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E58A4E"/><stop offset="1" stop-color="#CF6A2C"/>
+    </linearGradient>
+    <filter id="soft" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#7a3a10" flood-opacity="0.18"/>
+    </filter>
+    <g id="folder" filter="url(#soft)">
+      <path d="M0 14 Q0 2 12 2 H52 Q58 2 62 7 L68 14 H138 Q150 14 150 26 V100 Q150 112 138 112 H12 Q0 112 0 100 Z" fill="#C0602A"/>
+      <rect x="0" y="26" width="150" height="86" rx="10" fill="url(#front)"/>
+      <rect x="0" y="26" width="150" height="3" rx="1.5" fill="#F2A673" opacity="0.7"/>
+    </g>
+    <style>
+      .l { font: 500 19px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #2b2b2b; text-anchor: middle; }
+      .t { font: 400 26px Georgia, "Times New Roman", serif; fill: #2b2b2b; text-anchor: middle; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="998" height="728" rx="16" fill="#FBF8F2" stroke="#E4DDD0" stroke-width="2"/>
+  <path d="M1 17 Q1 1 17 1 H983 Q999 1 999 17 V60 H1 Z" fill="#F4F0E8"/>
+  <line x1="1" y1="60" x2="999" y2="60" stroke="#E4DDD0" stroke-width="2"/>
+  <circle cx="30" cy="31" r="7" fill="#FF5F57"/><circle cx="54" cy="31" r="7" fill="#FEBC2E"/><circle cx="78" cy="31" r="7" fill="#28C840"/>
+  <text x="500" y="40" class="t">11 SEO Content Team Skills</text>
+  <use href="#folder" x="88" y="110"/>
+  <text x="162" y="256" class="l">Cluster</text>
+  <text x="162" y="282" class="l">Orchestrator</text>
+  <use href="#folder" x="312" y="110"/>
+  <text x="388" y="256" class="l">Cluster</text>
+  <text x="388" y="282" class="l">Planner</text>
+  <use href="#folder" x="538" y="110"/>
+  <text x="612" y="256" class="l">Cluster</text>
+  <text x="612" y="282" class="l">Writer</text>
+  <use href="#folder" x="762" y="110"/>
+  <text x="838" y="256" class="l">Visual</text>
+  <text x="838" y="282" class="l">Designer</text>
+  <use href="#folder" x="88" y="310"/>
+  <text x="162" y="456" class="l">Quality</text>
+  <text x="162" y="482" class="l">Checker</text>
+  <use href="#folder" x="312" y="310"/>
+  <text x="388" y="456" class="l">Link</text>
+  <text x="388" y="482" class="l">Validator</text>
+  <use href="#folder" x="538" y="310"/>
+  <text x="612" y="456" class="l">Performance</text>
+  <text x="612" y="482" class="l">Tracker</text>
+  <use href="#folder" x="762" y="310"/>
+  <text x="838" y="456" class="l">Performance</text>
+  <text x="838" y="482" class="l">Optimizer</text>
+  <use href="#folder" x="200" y="510"/>
+  <text x="275" y="656" class="l">SEO Blog</text>
+  <text x="275" y="682" class="l">Writer</text>
+  <use href="#folder" x="425" y="510"/>
+  <text x="500" y="656" class="l">SEO</text>
+  <text x="500" y="682" class="l">Coach</text>
+  <use href="#folder" x="650" y="510"/>
+  <text x="725" y="656" class="l">Blog Manager</text>
+  <text x="725" y="682" class="l">SOP</text>
+</svg>

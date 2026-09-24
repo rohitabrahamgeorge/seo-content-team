@@ -1,0 +1,14 @@
+{
+  "name": "seo-content-team",
+  "owner": {
+    "name": "Rohit Abraham George",
+    "url": "https://github.com/rohitabrahamgeorge"
+  },
+  "plugins": [
+    {
+      "name": "seo-content-team",
+      "source": "./",
+      "description": "A full SEO content team as Claude skills: competitor comparison clusters, planned, written, QA'd, interlinked and tracked."
+    }
+  ]
+}
