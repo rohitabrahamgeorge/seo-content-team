@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="assets/skills-grid.svg" alt="The eleven skills: Cluster Orchestrator, Cluster Planner, Cluster Writer, Visual Designer, Quality Checker, Link Validator, Performance Tracker, Performance Optimizer, SEO Blog Writer, SEO Coach, Blog Manager SOP" width="760"/>
+<img src="assets/seo-team-hero.svg" alt="SEO Content Team: name one competitor and the skills plan, write, design, QA, interlink, track and optimize a full comparison cluster" width="900"/>
 
 [What you get](#what-you-get) · [How it works](#how-it-works) · [The eleven skills](#the-eleven-skills) · [Install](#install-in-2-minutes) · [FAQ](#faq)
 
@@ -82,6 +82,8 @@ flowchart LR
 - **Semrush-powered coaching.** `seo-coach` reads your real Semrush data and tells you the single best next step.
 
 ## The eleven skills
+
+<p align="center"><img src="assets/skills-grid.svg" alt="The eleven skills: Cluster Orchestrator, Cluster Planner, Cluster Writer, Visual Designer, Quality Checker, Link Validator, Performance Tracker, Performance Optimizer, SEO Blog Writer, SEO Coach, Blog Manager SOP" width="640"/></p>
 
 <details>
 <summary><b>🧠 cluster-orchestrator</b>: runs the whole build</summary>
